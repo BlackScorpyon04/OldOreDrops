@@ -1,0 +1,6 @@
+name: Oldoredrops
+version: '${project.version}'
+main: com.scorp.oldoredrops.Oldoredrops
+api-version: 1.17
+authors: [ Scorp ]
+description: Reverts ore drops to pre 1.17.1
